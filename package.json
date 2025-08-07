@@ -6,7 +6,7 @@
     "Backend"
   ],
   "license": "ISC",
-  "author": "Pratiyush",
+  "author": "Soubhagya",
   "type": "commonjs",
   "main": "server.js",
   "scripts": {
